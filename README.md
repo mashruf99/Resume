@@ -4,7 +4,7 @@ Software Engineering student at **Daffodil International University**
 Competitive Programmer | Web & App Developer | AI & ML Enthusiast  
 Based in Bangladesh
 
-I focus on building **practical, value-driven software systems** that solve real problems, save time, and explore advanced concepts in **Artificial Intelligence, Machine Learning, and system design**.
+I focus on building **practical, value-driven software systems** that solve real problems, save time, and explore advanced concepts in **Artificial Intelligence, Machine Learning, system design, and programming languages**.
 
 ---
 
@@ -41,7 +41,7 @@ Software Engineering academic project
 ### 4. 2D Games (Multiple Projects)
 **Tech Stack:** C / C++ / JavaScript  
 - Developed multiple 2D games focusing on game logic and state management
-- Worked with collision detection, scoring systems, and user interaction
+- Implemented collision detection, scoring systems, and user interaction
 - Emphasized clean logic, performance, and gameplay flow
 
 ---
@@ -49,8 +49,25 @@ Software Engineering academic project
 ### 5. Pong Game in Java
 **Tech Stack:** Java, OOP  
 - Built a classic Pong game using Java
-- Applied object-oriented programming concepts
+- Applied object-oriented programming principles
 - Implemented real-time movement, collision handling, and scoring logic
+
+---
+
+## Problem Solving and Competitive Programming
+
+- Solved **600+ algorithmic problems** across various platforms(CF, Leetcode, CodeChef)
+- Strong foundation in **data structures and algorithms**
+- Experienced in:
+  - Arrays, strings, recursion
+  - Sorting and searching
+  - Greedy algorithms
+  - Dynamic programming
+  - Graph fundamentals
+- Focused on writing **optimized, clean, and efficient code**
+- Also Started solving Cloud and architectural problems
+
+Problem solving is a core strength that directly influences my approach to software design and system architecture.
 
 ---
 
@@ -69,27 +86,34 @@ MySQL
 Machine Learning fundamentals  
 Regression and Classification  
 Decision Trees  
-CNN  
+Convolutional Neural Networks (CNN)  
 NumPy, Matplotlib, Seaborn
+
+### DevOps (Learning)
+Linux fundamentals  
+Git and GitHub workflows  
+CI/CD concepts  
+Containerization basics (Docker)  
+Cloud fundamentals
 
 ### Other Skills
 Software Project Management  
-System Analysis and Design (SRS, ERD, UML)  
-Competitive Programming (400+ problems solved)
+System Analysis and Design (SRS, ERD, UML)
 
 ---
 
 ## Currently Working On
 - Academic and applied **research work**
 - Designing and developing a **new programming language**
+- Learning and practicing **DevOps fundamentals**
 - Advancing skills in **Machine Learning and AI-driven systems**
-- Exploring **software architecture and language design concepts**
+- Exploring **software architecture and language design**
 
 ---
 
 ## Goals
 - Build impactful and meaningful software systems
-- Work on cutting-edge AI and research-oriented projects
+- Combine **problem solving, DevOps, and AI** in real-world projects
 - Contribute to open-source software
 - Pursue international research and scholarship opportunities
 
